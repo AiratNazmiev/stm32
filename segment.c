@@ -2,7 +2,6 @@
 #include "stm32f0xx_ll_system.h"
 #include "stm32f0xx_ll_bus.h"
 #include "stm32f0xx_ll_gpio.h"
-#include <math.h>
 
 #define CORE_FREQ 48000000
 
