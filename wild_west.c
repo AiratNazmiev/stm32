@@ -8,12 +8,6 @@
 #include "stm32f0xx_ll_exti.h"
 #include "stm32f0xx_ll_tim.h"
 
-//TODO:
-//make sounds
-//!!!PREVENT PREMATURE SHOTS - done
-//SPLIT DISTANCES ON INDICATOR
-//!! ERROR WHILE SHOOTING!!!!!!!!!!!!!!
-
 #define CORE_FREQ 48000000
 
 // game values------------------------------
